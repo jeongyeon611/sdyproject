@@ -1,0 +1,197 @@
+html, body {
+  background-color: rgb(246, 239, 229);
+}
+
+h1 {
+  font-size: 80px;
+  margin-top: 3%;
+  margin-bottom: -3%;
+  padding: 3%;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+#container {
+  margin-top: 3%;
+  position: absolute;
+  left: 52%;
+  transform: translateX(-50%);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 1%;
+  width: 90%;
+  height: 80%;
+  position: relative;
+}
+
+
+
+.a{
+  display: flex;
+  float: left;
+}
+
+.b{
+  margin-top: 10%;
+  margin-right: 10%;
+  display: flex;
+  float: left;
+}
+
+.c{
+  display: flex;
+  float: left;
+}
+
+.d{
+  display: flex;
+  float: left;
+}
+
+.e{
+  display: flex;
+  float: left;
+}
+
+.f{
+  display: flex;
+  float: left;
+}
+
+.g{
+  margin-top: 5%;
+  margin-left: -5%;
+  display: flex;
+  float: left;
+}
+
+.h{
+  display: flex;
+  float: left;
+}
+
+.i{
+  margin-top: 10%;
+  display: flex;
+  float: left;
+}
+
+.j{
+  margin-top: 10%;
+  display: flex;
+  float: left;
+}
+
+.k{
+  margin-top: 5%;
+  display: flex;
+  float: left;
+}
+
+.l{
+  display: flex;
+  float: left;
+}
+
+.m{
+  display: flex;
+  float: left;
+}
+
+.n{
+  display: flex;
+  float: left;
+}
+
+.o{
+  display: flex;
+  float: left;
+}
+
+.p{
+  display: flex;
+  float: left;
+}
+
+.q{
+  display: flex;
+  float: left;
+}
+
+.r{
+  display: flex;
+  float: left;
+}
+
+.s{
+  display: flex;
+  float: left;
+}
+
+.t{
+  display: flex;
+  float: left;
+}
+
+.u{
+  display: flex;
+  float: left;
+}
+
+.v{
+  display: flex;
+  float: left;
+}
+
+.w{
+  display: flex;
+  float: left;
+}
+
+.x{
+  display: flex;
+  float: left;
+}
+
+.y{
+  display: flex;
+  float: left;
+}
+
+.z{
+  display: flex;
+  float: left;
+}
+
+.za{
+  display: flex;
+  float: left;
+}
+
+.zb{
+  display: flex;
+  float: left;
+}
+
+.zc{
+  display: flex;
+  float: left;
+}
+
+.zd{
+  display: flex;
+  float: left;
+}
+
+.ze{
+  display: flex;
+  float: left;
+}
+
+.zf{
+  display: flex;
+  float: left;
+}
