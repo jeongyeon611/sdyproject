@@ -27,7 +27,7 @@ h2 {
   position: relative;
 }
 
-@mobile {
+@media (max-width: 768px) {
   #container {
     margin-top: 3%;
     position: absolute;
