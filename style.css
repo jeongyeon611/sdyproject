@@ -27,10 +27,18 @@ h2 {
   position: relative;
 }
 
-@media (max-width: 768px) {
-  .container {
-    flex-direction: column;
-    padding: 1rem;
+@mobile {
+  #container {
+    margin-top: 3%;
+    position: absolute;
+    left: 52%;
+    transform: translateX(-50%);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1%;
+    width: 90%;
+    height: 80%;
+    position: relative;
   }
 }
 
